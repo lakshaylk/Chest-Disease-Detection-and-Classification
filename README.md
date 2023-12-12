@@ -1,1 +1,1 @@
-# Chest-X-Ray-Classification-Using-AI
+# Chest Disease Detection and Classification
